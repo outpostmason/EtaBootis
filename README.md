@@ -6,6 +6,8 @@ A number of concepts for design and gridding are layed into these files. Referen
 This code includes SOME java and all funcitons are listed so they can be duplicated, re-purposed, or removed. 
 Please visit and support artist links before deleting them from your projects or throughout your development as background music etc. These are the people who made ceating more fun in my life and a gift like this is Teimless. 
 
+A majority of this code was copy pasted from trusted sources libraries and directories that are also free. I would also encourage you to start here and develop with an open mind. Reading is truly fundamental. and even then i just reference the stuff i need sometimes. so here it is below. Happy coding.
+
 References
 
 W3.CSS Reference
